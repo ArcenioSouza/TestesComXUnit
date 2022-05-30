@@ -1,5 +1,6 @@
 using System;
 using Xunit;
+using Ex1Veiculo;
 
 namespace Ex1Test
 {
