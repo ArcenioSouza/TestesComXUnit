@@ -50,5 +50,36 @@ namespace Ex1Test
             //Assert
             Assert.Equal(expected, testVeiculo.litrosCombustivel);
         }
+
+        [Fact]
+        public void Frear_ChamaMetodo_RetornaVelocidadeMenor()
+        {
+            //Arrange
+            var testVeiculo = new Veiculo("Chevrolet", "Prisma", "AAA1010", "Vermelho", 150000, 17000);
+            testVeiculo.ligar();
+            testVeiculo.acelerar();
+            testVeiculo.acelerar();
+            var expected = 20;
+            //Act            
+            testVeiculo.frear();            
+            //Assert
+            Assert.Equal(expected, testVeiculo.Velocidade);
+        }
+
+        [Theory]
+        [InlineData("Azul")]
+        [InlineData("Verde")]
+
+        public void Pintar_RecebeStringCor_RetornaNovaCorDoVeiculo(string NovaCor)
+        {
+            //Arrange
+            var testVeiculo = new Veiculo("Chevrolet", "Prisma", "AAA1010", "Vermelho", 150000, 17000);
+            var expected = NovaCor;
+            //Act
+            testVeiculo.pintar(NovaCor);            
+            //Assert
+            Assert.Equal(expected, testVeiculo.Cor);
+        }
+
     }
 }
