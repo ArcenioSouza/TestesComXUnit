@@ -98,3 +98,10 @@ c:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\Des
 c:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\DesafioTDD\src\Tests\Ex1Test\obj\Debug\net5.0\ref\Ex1Test.dll
 c:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\DesafioTDD\src\Tests\Ex1Test\obj\Debug\net5.0\Ex1Test.pdb
 c:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\DesafioTDD\src\Tests\Ex1Test\obj\Debug\net5.0\Ex1Test.genruntimeconfig.cache
+c:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\DesafioTDD\src\Tests\Ex1Test\bin\Debug\net5.0\CoverletSourceRootsMapping
+c:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\DesafioTDD\src\Tests\Ex1Test\bin\Debug\net5.0\Ex1Veiculo.deps.json
+c:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\DesafioTDD\src\Tests\Ex1Test\bin\Debug\net5.0\Ex1Veiculo.runtimeconfig.json
+c:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\DesafioTDD\src\Tests\Ex1Test\bin\Debug\net5.0\Ex1Veiculo.runtimeconfig.dev.json
+c:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\DesafioTDD\src\Tests\Ex1Test\bin\Debug\net5.0\Ex1Veiculo.exe
+c:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\DesafioTDD\src\Tests\Ex1Test\bin\Debug\net5.0\Ex1Veiculo.dll
+c:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\DesafioTDD\src\Tests\Ex1Test\bin\Debug\net5.0\Ex1Veiculo.pdb

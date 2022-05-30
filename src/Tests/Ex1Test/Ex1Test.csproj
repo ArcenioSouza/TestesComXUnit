@@ -19,4 +19,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\App\Ex1Veiculo\Ex1Veiculo.csproj" />
+  </ItemGroup>
+
 </Project>

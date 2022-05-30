@@ -1670,6 +1670,16 @@
         "build": {
           "build/netcoreapp2.1/xunit.runner.visualstudio.props": {}
         }
+      },
+      "Ex1Veiculo/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Ex1Veiculo.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ex1Veiculo.dll": {}
+        }
       }
     }
   },
@@ -5906,10 +5916,16 @@
         "xunit.runner.visualstudio.2.4.3.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "Ex1Veiculo/1.0.0": {
+      "type": "project",
+      "path": "../../App/Ex1Veiculo/Ex1Veiculo.csproj",
+      "msbuildProject": "../../App/Ex1Veiculo/Ex1Veiculo.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "Ex1Veiculo >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 16.9.4",
       "coverlet.collector >= 3.0.2",
       "xunit >= 2.4.1",
@@ -5922,11 +5938,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AOZI\\OneDrive - GFT Technologies SE\\Documents\\ProjetosAtividadesGFT\\DesafioTDD\\src\\Tests\\Ex1Test\\Ex1Test.csproj",
+      "projectUniqueName": "c:\\Users\\AOZI\\OneDrive - GFT Technologies SE\\Documents\\ProjetosAtividadesGFT\\DesafioTDD\\src\\Tests\\Ex1Test\\Ex1Test.csproj",
       "projectName": "Ex1Test",
-      "projectPath": "C:\\Users\\AOZI\\OneDrive - GFT Technologies SE\\Documents\\ProjetosAtividadesGFT\\DesafioTDD\\src\\Tests\\Ex1Test\\Ex1Test.csproj",
+      "projectPath": "c:\\Users\\AOZI\\OneDrive - GFT Technologies SE\\Documents\\ProjetosAtividadesGFT\\DesafioTDD\\src\\Tests\\Ex1Test\\Ex1Test.csproj",
       "packagesPath": "C:\\Users\\AOZI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AOZI\\OneDrive - GFT Technologies SE\\Documents\\ProjetosAtividadesGFT\\DesafioTDD\\src\\Tests\\Ex1Test\\obj\\",
+      "outputPath": "c:\\Users\\AOZI\\OneDrive - GFT Technologies SE\\Documents\\ProjetosAtividadesGFT\\DesafioTDD\\src\\Tests\\Ex1Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\AOZI\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -5940,7 +5956,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "c:\\Users\\AOZI\\OneDrive - GFT Technologies SE\\Documents\\ProjetosAtividadesGFT\\DesafioTDD\\src\\App\\Ex1Veiculo\\Ex1Veiculo.csproj": {
+              "projectPath": "c:\\Users\\AOZI\\OneDrive - GFT Technologies SE\\Documents\\ProjetosAtividadesGFT\\DesafioTDD\\src\\App\\Ex1Veiculo\\Ex1Veiculo.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
