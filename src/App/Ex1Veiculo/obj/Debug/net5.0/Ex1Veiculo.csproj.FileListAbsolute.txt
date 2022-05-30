@@ -1,0 +1,16 @@
+C:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\DesafioTDD\src\App\Ex1Veiculo\obj\Debug\net5.0\Ex1Veiculo.csproj.AssemblyReference.cache
+C:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\DesafioTDD\src\App\Ex1Veiculo\obj\Debug\net5.0\Ex1Veiculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\DesafioTDD\src\App\Ex1Veiculo\obj\Debug\net5.0\Ex1Veiculo.AssemblyInfoInputs.cache
+C:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\DesafioTDD\src\App\Ex1Veiculo\obj\Debug\net5.0\Ex1Veiculo.AssemblyInfo.cs
+C:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\DesafioTDD\src\App\Ex1Veiculo\obj\Debug\net5.0\Ex1Veiculo.csproj.CoreCompileInputs.cache
+C:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\DesafioTDD\src\App\Ex1Veiculo\bin\Debug\net5.0\Ex1Veiculo.exe
+C:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\DesafioTDD\src\App\Ex1Veiculo\bin\Debug\net5.0\Ex1Veiculo.deps.json
+C:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\DesafioTDD\src\App\Ex1Veiculo\bin\Debug\net5.0\Ex1Veiculo.runtimeconfig.json
+C:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\DesafioTDD\src\App\Ex1Veiculo\bin\Debug\net5.0\Ex1Veiculo.runtimeconfig.dev.json
+C:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\DesafioTDD\src\App\Ex1Veiculo\bin\Debug\net5.0\Ex1Veiculo.dll
+C:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\DesafioTDD\src\App\Ex1Veiculo\bin\Debug\net5.0\ref\Ex1Veiculo.dll
+C:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\DesafioTDD\src\App\Ex1Veiculo\bin\Debug\net5.0\Ex1Veiculo.pdb
+C:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\DesafioTDD\src\App\Ex1Veiculo\obj\Debug\net5.0\Ex1Veiculo.dll
+C:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\DesafioTDD\src\App\Ex1Veiculo\obj\Debug\net5.0\ref\Ex1Veiculo.dll
+C:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\DesafioTDD\src\App\Ex1Veiculo\obj\Debug\net5.0\Ex1Veiculo.pdb
+C:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\DesafioTDD\src\App\Ex1Veiculo\obj\Debug\net5.0\Ex1Veiculo.genruntimeconfig.cache
