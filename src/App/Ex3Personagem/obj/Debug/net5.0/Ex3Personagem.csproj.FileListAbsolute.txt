@@ -1,0 +1,12 @@
+C:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\desafiotdd\src\App\Ex3Personagem\bin\Debug\net5.0\Ex3Personagem.deps.json
+C:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\desafiotdd\src\App\Ex3Personagem\bin\Debug\net5.0\Ex3Personagem.dll
+C:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\desafiotdd\src\App\Ex3Personagem\bin\Debug\net5.0\ref\Ex3Personagem.dll
+C:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\desafiotdd\src\App\Ex3Personagem\bin\Debug\net5.0\Ex3Personagem.pdb
+C:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\desafiotdd\src\App\Ex3Personagem\obj\Debug\net5.0\Ex3Personagem.csproj.AssemblyReference.cache
+C:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\desafiotdd\src\App\Ex3Personagem\obj\Debug\net5.0\Ex3Personagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\desafiotdd\src\App\Ex3Personagem\obj\Debug\net5.0\Ex3Personagem.AssemblyInfoInputs.cache
+C:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\desafiotdd\src\App\Ex3Personagem\obj\Debug\net5.0\Ex3Personagem.AssemblyInfo.cs
+C:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\desafiotdd\src\App\Ex3Personagem\obj\Debug\net5.0\Ex3Personagem.csproj.CoreCompileInputs.cache
+C:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\desafiotdd\src\App\Ex3Personagem\obj\Debug\net5.0\Ex3Personagem.dll
+C:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\desafiotdd\src\App\Ex3Personagem\obj\Debug\net5.0\ref\Ex3Personagem.dll
+C:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\desafiotdd\src\App\Ex3Personagem\obj\Debug\net5.0\Ex3Personagem.pdb

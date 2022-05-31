@@ -9,7 +9,8 @@
       "Main/1.0.0": {
         "dependencies": {
           "Ex1Veiculo": "1.0.0",
-          "Ex2Imposto": "1.0.0"
+          "Ex2Imposto": "1.0.0",
+          "Ex3Personagem": "1.0.0"
         },
         "runtime": {
           "Main.dll": {}
@@ -23,6 +24,11 @@
       "Ex2Imposto/1.0.0": {
         "runtime": {
           "Ex2Imposto.dll": {}
+        }
+      },
+      "Ex3Personagem/1.0.0": {
+        "runtime": {
+          "Ex3Personagem.dll": {}
         }
       }
     }
@@ -39,6 +45,11 @@
       "sha512": ""
     },
     "Ex2Imposto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ex3Personagem/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -1,6 +1,7 @@
 ﻿using System;
 using Ex1Veiculo;
 using Ex2Imposto;
+using Ex3Personagem;
 
 namespace Main
 {
@@ -12,7 +13,7 @@ namespace Main
             Console.WriteLine("------------------------------------");
             Console.WriteLine($"Escolha uma das opções de exercicios para visualiza-lo:");
             Console.WriteLine("------------------------------------");
-            Console.WriteLine("1 - Exercicio sobre Veiculo;\r\n2 - Exercicio sobre Imposto");
+            Console.WriteLine("1 - Exercicio sobre Veiculo;\r\n2 - Exercicio sobre Imposto;\r\n3 - Exercicio sobre Personagem");
             var opcao = Console.ReadLine();
             Console.WriteLine("------------------------------------");
             switch (opcao)
@@ -24,6 +25,7 @@ namespace Main
                     ProgramImposto.Main();
                     break;
                 case "3":
+                    ProgramPersonagem.Main();
                     break;
                 case "4":
                     break;

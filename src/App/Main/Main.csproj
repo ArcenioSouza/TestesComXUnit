@@ -3,6 +3,7 @@
   <ItemGroup>
     <ProjectReference Include="..\Ex1Veiculo\Ex1Veiculo.csproj" />
     <ProjectReference Include="..\Ex2Imposto\Ex2Imposto.csproj" />
+    <ProjectReference Include="..\Ex3Personagem\Ex3Personagem.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
