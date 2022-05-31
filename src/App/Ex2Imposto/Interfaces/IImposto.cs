@@ -1,7 +1,7 @@
 namespace Ex2Imposto.Interfaces
 {
-    public interface IImposto
+    interface IImposto
     {
-        double calculaImposto();
+        double CalculaImposto();
     }
 }

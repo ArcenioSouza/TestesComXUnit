@@ -14,7 +14,7 @@ namespace Ex2Test
             var Livro = new Livro("Harry Potter", 100, 10, "J. K. Rowling", "fantasia", 300);
             double expected = 10;
             //Act
-            var result = Livro.calculaImposto();
+            var result = Livro.CalculaImposto();
             //Assert
             Assert.Equal(expected, result);
         }
@@ -26,7 +26,7 @@ namespace Ex2Test
             var Livro = new Livro("Harry Potter", 100, 10, "J. K. Rowling", "educativo", 300);
             double expected = 0;
             //Act
-            var result = Livro.calculaImposto();
+            var result = Livro.CalculaImposto();
             //Assert
             Assert.Equal(expected, result);
         }
@@ -37,7 +37,7 @@ namespace Ex2Test
             //Arrange
             var VideoGame = new VideoGame("PS4", 1800, 100, "Sony", "Slim", true);
             //Act
-            var result = VideoGame.calculaImposto();
+            var result = VideoGame.CalculaImposto();
             var expected = 1800 * 0.25;
             //Assert
             Assert.Equal(expected, result);
@@ -50,7 +50,7 @@ namespace Ex2Test
             var VideoGame = new VideoGame("PS4", 1800, 100, "Sony", "Slim", false);
             var expected = 1800 * 0.45;
             //Act
-            var result = VideoGame.calculaImposto();            
+            var result = VideoGame.CalculaImposto();            
             //Assert
             Assert.Equal(expected, result);
         }
@@ -120,7 +120,7 @@ namespace Ex2Test
             var loja = new Loja("Americanas", "12345678", livros, games);
             var expected = 1800 + 40;
             //Act
-            var result = loja.calculaPatrimonio();
+            var result = loja.CalculaPatrimonio();
             //Assert
             Assert.Equal(expected, result);
         }

@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Main/1.0.0": {
+        "dependencies": {
+          "Ex1Veiculo": "1.0.0",
+          "Ex2Imposto": "1.0.0"
+        },
+        "runtime": {
+          "Main.dll": {}
+        }
+      },
+      "Ex1Veiculo/1.0.0": {
+        "runtime": {
+          "Ex1Veiculo.dll": {}
+        }
+      },
+      "Ex2Imposto/1.0.0": {
+        "runtime": {
+          "Ex2Imposto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Main/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ex1Veiculo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ex2Imposto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

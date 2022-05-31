@@ -1,4 +1,3 @@
-using System;
 using Ex2Imposto.Interfaces;
 
 namespace Ex2Imposto.Model
@@ -16,9 +15,9 @@ namespace Ex2Imposto.Model
             this.IsUsado = isUsado;
         }
 
-        public double calculaImposto()
+        public double CalculaImposto()
         {
-            double resultado = 0;
+            double resultado;
 
             if(IsUsado == true)
             {

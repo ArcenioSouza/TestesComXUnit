@@ -3,10 +3,10 @@ using System.Collections.Generic;
 
 namespace Ex2Imposto.Model
 {
-     public class Loja
+    public class Loja
     {
-        string Nome { get; set; }
-        string Cnpj { get; set; }
+        public string Nome { get; set; }
+        public string Cnpj { get; set; }
         public List<VideoGame> VideoGames { get; set; }
         public List<Livro> Livros { get; set; }
         public Loja(string nome, string cnpj, List<Livro> livros, List<VideoGame> videoGames)
@@ -17,7 +17,7 @@ namespace Ex2Imposto.Model
             Livros = livros;
         }
 
-        public void listaLivros()
+        public void ListaLivros()
         {
             if (Livros.Count == 0)
             {
@@ -33,7 +33,7 @@ namespace Ex2Imposto.Model
 
         }
 
-        public void listaVideoGames()
+        public void ListaVideoGames()
         {
             if (VideoGames.Count == 0)
             {
@@ -49,10 +49,10 @@ namespace Ex2Imposto.Model
 
         }
 
-        public double calculaPatrimonio()
+        public double CalculaPatrimonio()
         {
             double valorPatrimonio = 0;
-            
+
             foreach (var item in VideoGames)
             {
                 valorPatrimonio += item.Preco;

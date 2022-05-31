@@ -1,0 +1,107 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Ex1Veiculo/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Ex1Veiculo.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ex1Veiculo.dll": {}
+        }
+      },
+      "Ex2Imposto/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Ex2Imposto.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ex2Imposto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex1Veiculo/1.0.0": {
+      "type": "project",
+      "path": "../Ex1Veiculo/Ex1Veiculo.csproj",
+      "msbuildProject": "../Ex1Veiculo/Ex1Veiculo.csproj"
+    },
+    "Ex2Imposto/1.0.0": {
+      "type": "project",
+      "path": "../Ex2Imposto/Ex2Imposto.csproj",
+      "msbuildProject": "../Ex2Imposto/Ex2Imposto.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Ex1Veiculo >= 1.0.0",
+      "Ex2Imposto >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\AOZI\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\AOZI\\OneDrive - GFT Technologies SE\\Documents\\ProjetosAtividadesGFT\\desafiotdd\\src\\App\\Main\\Main.csproj",
+      "projectName": "Main",
+      "projectPath": "C:\\Users\\AOZI\\OneDrive - GFT Technologies SE\\Documents\\ProjetosAtividadesGFT\\desafiotdd\\src\\App\\Main\\Main.csproj",
+      "packagesPath": "C:\\Users\\AOZI\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\AOZI\\OneDrive - GFT Technologies SE\\Documents\\ProjetosAtividadesGFT\\desafiotdd\\src\\App\\Main\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\AOZI\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\AOZI\\OneDrive - GFT Technologies SE\\Documents\\ProjetosAtividadesGFT\\desafiotdd\\src\\App\\Ex1Veiculo\\Ex1Veiculo.csproj": {
+              "projectPath": "C:\\Users\\AOZI\\OneDrive - GFT Technologies SE\\Documents\\ProjetosAtividadesGFT\\desafiotdd\\src\\App\\Ex1Veiculo\\Ex1Veiculo.csproj"
+            },
+            "C:\\Users\\AOZI\\OneDrive - GFT Technologies SE\\Documents\\ProjetosAtividadesGFT\\desafiotdd\\src\\App\\Ex2Imposto\\Ex2Imposto.csproj": {
+              "projectPath": "C:\\Users\\AOZI\\OneDrive - GFT Technologies SE\\Documents\\ProjetosAtividadesGFT\\desafiotdd\\src\\App\\Ex2Imposto\\Ex2Imposto.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

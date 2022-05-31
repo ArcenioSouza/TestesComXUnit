@@ -1,4 +1,3 @@
-using System;
 using Xunit;
 using Ex1Veiculo;
 
@@ -10,11 +9,12 @@ namespace Ex1Test
         public void Acelerar_ChamaMetodo_RetornaVelocidadeMaiorQueZero()
         {
             //Arrange
-            var testVeiculo = new Veiculo("Chevrolet", "Prisma", "EJE1839", "Vermelho", 150000, 18000);
-            testVeiculo.ligar();
+            Veiculo veiculo = new Veiculo("Chevrolet", "Prisma", "EJE1839", "Vermelho", 150000, 18000);
+            var testVeiculo = veiculo;
+            testVeiculo.Ligar();
             var expected = 20;
             //Act
-            testVeiculo.acelerar();
+            testVeiculo.Acelerar();
             //Assert
             Assert.Equal(expected, testVeiculo.Velocidade);
         }
@@ -27,10 +27,10 @@ namespace Ex1Test
         public void Abastecer_RecebeNumeroInteiro_RetornaQuantidadeDeCombutivel(int QtdCombustivel)
         {
             //Arrange
-            var testVeiculo = new Veiculo("Chevrolet", "Prisma", "EJE1839", "Vermelho", 150000, 18000);
+            Veiculo testVeiculo = new Veiculo("Chevrolet", "Prisma", "EJE1839", "Vermelho", 150000, 18000);
             var expected = QtdCombustivel;
             //Act
-            testVeiculo.abastecer(QtdCombustivel);
+            testVeiculo.Abastecer(QtdCombustivel);
             //Assert
             Assert.Equal(expected, testVeiculo.litrosCombustivel);
         }
@@ -43,10 +43,10 @@ namespace Ex1Test
         public void Abastecer_RecebeNumeroInteiroMaiorQue60_RetornaQuantidadeDeCombutivelIgualZero(int QtdCombustivel)
         {
             //Arrange
-            var testVeiculo = new Veiculo("Chevrolet", "Prisma", "EJE1839", "Vermelho", 150000, 18000);
+            Veiculo testVeiculo = new Veiculo("Chevrolet", "Prisma", "EJE1839", "Vermelho", 150000, 18000);
             var expected = 0;
             //Act
-            testVeiculo.abastecer(QtdCombustivel);
+            testVeiculo.Abastecer(QtdCombustivel);
             //Assert
             Assert.Equal(expected, testVeiculo.litrosCombustivel);
         }
@@ -55,13 +55,13 @@ namespace Ex1Test
         public void Frear_ChamaMetodo_RetornaVelocidadeMenor()
         {
             //Arrange
-            var testVeiculo = new Veiculo("Chevrolet", "Prisma", "AAA1010", "Vermelho", 150000, 17000);
-            testVeiculo.ligar();
-            testVeiculo.acelerar();
-            testVeiculo.acelerar();
+            Veiculo testVeiculo = new Veiculo("Chevrolet", "Prisma", "AAA1010", "Vermelho", 150000, 17000);
+            testVeiculo.Ligar();
+            testVeiculo.Acelerar();
+            testVeiculo.Acelerar();
             var expected = 20;
             //Act            
-            testVeiculo.frear();            
+            testVeiculo.Frear();            
             //Assert
             Assert.Equal(expected, testVeiculo.Velocidade);
         }
@@ -73,10 +73,10 @@ namespace Ex1Test
         public void Pintar_RecebeStringCor_RetornaNovaCorDoVeiculo(string NovaCor)
         {
             //Arrange
-            var testVeiculo = new Veiculo("Chevrolet", "Prisma", "AAA1010", "Vermelho", 150000, 17000);
+            Veiculo testVeiculo = new Veiculo("Chevrolet", "Prisma", "AAA1010", "Vermelho", 150000, 17000);
             var expected = NovaCor;
             //Act
-            testVeiculo.pintar(NovaCor);            
+            testVeiculo.Pintar(NovaCor);            
             //Assert
             Assert.Equal(expected, testVeiculo.Cor);
         }
@@ -85,10 +85,10 @@ namespace Ex1Test
         public void Ligar_ChamaMetodo_RetornaTrue()
         {
             //Arrange
-            var testVeiculo = new Veiculo("Chevrolet", "Prisma", "AAA1010", "Vermelho", 150000, 17000);
+            Veiculo testVeiculo = new Veiculo("Chevrolet", "Prisma", "AAA1010", "Vermelho", 150000, 17000);
             var expected = true;
             //Act            
-            testVeiculo.ligar();           
+            testVeiculo.Ligar();           
             //Assert
             Assert.Equal(expected, testVeiculo.isLigado);
         }
@@ -97,11 +97,11 @@ namespace Ex1Test
         public void Desligar_ChamaMetodo_RetornaFalse()
         {
             //Arrange
-            var testVeiculo = new Veiculo("Chevrolet", "Prisma", "AAA1010", "Vermelho", 150000, 17000);
+            Veiculo testVeiculo = new Veiculo("Chevrolet", "Prisma", "AAA1010", "Vermelho", 150000, 17000);
             var expected = false;
-            testVeiculo.ligar();
+            testVeiculo.Ligar();
             //Act            
-            testVeiculo.desligar();           
+            testVeiculo.Desligar();           
             //Assert
             Assert.Equal(expected, testVeiculo.isLigado);
         }

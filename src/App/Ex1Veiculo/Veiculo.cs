@@ -23,11 +23,11 @@ namespace Ex1Veiculo
             Km = km;
             Preco = preco;
         }
-        public int acelerar()
+        public int Acelerar()
         {
             if (isLigado == true)
             {
-                Velocidade = Velocidade + 20;
+                Velocidade += 20;
                 Console.WriteLine("O veículo aumentou sua velocidade!");
                 Console.WriteLine("Velocidade atual: " + Velocidade);
                 return 1;
@@ -40,7 +40,7 @@ namespace Ex1Veiculo
 
         }
 
-        public int abastecer(int combustivel)
+        public int Abastecer(int combustivel)
         {
             if (litrosCombustivel + combustivel > 60)
             {
@@ -51,14 +51,14 @@ namespace Ex1Veiculo
             }
             else
             {
-                litrosCombustivel = litrosCombustivel + combustivel;
+                litrosCombustivel += combustivel;
                 Console.WriteLine("Veículo abastecido com sucesso");
                 Console.WriteLine("Quantidade de combustível: " + litrosCombustivel + " litros");
                 return 1;
             }
         }
 
-        public int frear()
+        public int Frear()
         {
             if (Velocidade == 0)
             {
@@ -67,19 +67,19 @@ namespace Ex1Veiculo
             }
             else
             {
-                Velocidade = Velocidade - 20;
+                Velocidade -= 20;
                 Console.WriteLine("Velocidade diminuida para " + Velocidade);
                 return 1;
             }
         }
 
-        public void pintar(string cor)
+        public void Pintar(string cor)
         {
             Cor = cor;
             Console.WriteLine("O veículo agora está pintado na cor " + cor);
         }
 
-        public void ligar()
+        public void Ligar()
         {
             if (isLigado == false)
             {
@@ -92,7 +92,7 @@ namespace Ex1Veiculo
             }
         }
 
-        public void desligar()
+        public void Desligar()
         {
             if (isLigado == true)
             {

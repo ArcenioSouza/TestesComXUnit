@@ -2,31 +2,31 @@
 
 namespace Ex1Veiculo
 {
-    class Program
+    public class ProgramVeiculo
     {
-        static void Main(string[] args)
+        public static void Main()
         {
             Console.WriteLine("Bem vindo ao teste drive do seu veículo!");
             Console.WriteLine("Antes de começar vamos fazer o cadastro do seu veículo:");
 
             Console.WriteLine("Digite a marca do seu veículo:");
-            string? marca = Console.ReadLine();
+            string marca = Console.ReadLine();
 
             Console.WriteLine("Digite o modelo do seu veículo:");
-            string? modelo = Console.ReadLine();
+            string modelo = Console.ReadLine();
 
             Console.WriteLine("Digite a placa do seu veículo:");
-            string? placa = Console.ReadLine();
+            string placa = Console.ReadLine();
 
             Console.WriteLine("Digite a cor do seu veículo:");
-            string? cor = Console.ReadLine();
+            string cor = Console.ReadLine();
 
             Console.WriteLine("Digite a quilometragem do seu veículo:");
-            string? km = Console.ReadLine();
+            string km = Console.ReadLine();
             float convertKm = float.Parse(km);
 
             Console.WriteLine("Digite o preço do seu veículo:");
-            string? preco = Console.ReadLine();
+            string preco = Console.ReadLine();
             double convertPreco = double.Parse(preco);
 
             Veiculo testDrive = new Veiculo(marca, modelo, placa, cor, convertKm, convertPreco);
@@ -43,27 +43,27 @@ namespace Ex1Veiculo
                 switch (escolha)
                 {
                     case "1":
-                        testDrive.acelerar();
+                        testDrive.Acelerar();
                         break;
                     case "2":
                         Console.WriteLine("Digite a quantidade de combustível em litros:");
                         string qtdCombustivel = Console.ReadLine();
                         int convertQtdCombustivel = int.Parse(qtdCombustivel);
-                        testDrive.abastecer(convertQtdCombustivel);
+                        testDrive.Abastecer(convertQtdCombustivel);
                         break;
                     case "3":
-                        testDrive.frear();
+                        testDrive.Frear();
                         break;
                     case "4":
                         Console.WriteLine("Digite nova cor do veículo");
                         string corVeiculo = Console.ReadLine();
-                        testDrive.pintar(corVeiculo);
+                        testDrive.Pintar(corVeiculo);
                         break;
                     case "5":
-                        testDrive.ligar();
+                        testDrive.Ligar();
                         break;
                     case "6":
-                        testDrive.desligar();
+                        testDrive.Desligar();
                         if (testDrive.isLigado == false)
                         {
                             Console.WriteLine("Você deseja sair do teste drive?\r\n1 - Sim\r\n2 - Não");
