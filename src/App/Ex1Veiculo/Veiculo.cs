@@ -89,7 +89,6 @@ namespace Ex1Veiculo
             else
             {
                 Console.WriteLine("O veículo já está ligado");
-                return 0;
             }
         }
 

@@ -81,5 +81,29 @@ namespace Ex1Test
             Assert.Equal(expected, testVeiculo.Cor);
         }
 
+        [Fact]
+        public void Ligar_ChamaMetodo_RetornaTrue()
+        {
+            //Arrange
+            var testVeiculo = new Veiculo("Chevrolet", "Prisma", "AAA1010", "Vermelho", 150000, 17000);
+            var expected = true;
+            //Act            
+            testVeiculo.ligar();           
+            //Assert
+            Assert.Equal(expected, testVeiculo.isLigado);
+        }
+
+         [Fact]
+        public void Desligar_ChamaMetodo_RetornaFalse()
+        {
+            //Arrange
+            var testVeiculo = new Veiculo("Chevrolet", "Prisma", "AAA1010", "Vermelho", 150000, 17000);
+            var expected = false;
+            testVeiculo.ligar();
+            //Act            
+            testVeiculo.desligar();           
+            //Assert
+            Assert.Equal(expected, testVeiculo.isLigado);
+        }
     }
 }
