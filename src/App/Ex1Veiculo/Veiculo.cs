@@ -79,13 +79,12 @@ namespace Ex1Veiculo
             Console.WriteLine("O veículo agora está pintado na cor " + cor);
         }
 
-        public int ligar()
+        public void ligar()
         {
             if (isLigado == false)
             {
                 isLigado = true;
                 Console.WriteLine("O veículo foi ligado");
-                return 1;
             }
             else
             {
@@ -94,26 +93,23 @@ namespace Ex1Veiculo
             }
         }
 
-        public int desligar()
+        public void desligar()
         {
             if (isLigado == true)
             {
                 if (Velocidade > 0)
                 {
                     Console.WriteLine("Veículo em movimento, pare ele antes de desligar");
-                    return 0;
                 }
                 else
                 {
                     isLigado = false;
                     Console.WriteLine("O veículo foi desligado");
-                    return 1;
                 }
             }
             else
             {
                 Console.WriteLine("O veículo já está desligado");
-                return 0;
             }
         }
 
