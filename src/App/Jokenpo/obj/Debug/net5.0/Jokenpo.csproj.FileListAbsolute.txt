@@ -1,0 +1,10 @@
+C:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\desafiotdd\src\App\Jokenpo\bin\Debug\net5.0\Jokenpo.deps.json
+C:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\desafiotdd\src\App\Jokenpo\bin\Debug\net5.0\Jokenpo.dll
+C:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\desafiotdd\src\App\Jokenpo\bin\Debug\net5.0\ref\Jokenpo.dll
+C:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\desafiotdd\src\App\Jokenpo\bin\Debug\net5.0\Jokenpo.pdb
+C:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\desafiotdd\src\App\Jokenpo\obj\Debug\net5.0\Jokenpo.csproj.AssemblyReference.cache
+C:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\desafiotdd\src\App\Jokenpo\obj\Debug\net5.0\Jokenpo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\desafiotdd\src\App\Jokenpo\obj\Debug\net5.0\Jokenpo.csproj.CoreCompileInputs.cache
+C:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\desafiotdd\src\App\Jokenpo\obj\Debug\net5.0\Jokenpo.dll
+C:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\desafiotdd\src\App\Jokenpo\obj\Debug\net5.0\ref\Jokenpo.dll
+C:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\desafiotdd\src\App\Jokenpo\obj\Debug\net5.0\Jokenpo.pdb
