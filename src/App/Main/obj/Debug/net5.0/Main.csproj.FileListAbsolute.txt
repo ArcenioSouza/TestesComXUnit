@@ -25,3 +25,5 @@ C:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\des
 C:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\desafiotdd\src\App\Main\bin\Debug\net5.0\Ex7Funcionarios.pdb
 C:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\desafiotdd\src\App\Main\bin\Debug\net5.0\Jokenpo.dll
 C:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\desafiotdd\src\App\Main\bin\Debug\net5.0\Jokenpo.pdb
+C:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\desafiotdd\src\App\Main\bin\Debug\net5.0\CaixaEletronico.dll
+C:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\desafiotdd\src\App\Main\bin\Debug\net5.0\CaixaEletronico.pdb

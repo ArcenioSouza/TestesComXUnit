@@ -4,6 +4,7 @@ using Ex2Imposto;
 using Ex3Personagem;
 using Ex7Funcionarios;
 using Jokenpo;
+using CaixaEletronico;
 
 namespace Main
 {
@@ -16,7 +17,7 @@ namespace Main
             Console.WriteLine("------------------------------------");
             Console.WriteLine($"Escolha uma das opções de exercicios para visualiza-lo:");
             Console.WriteLine("------------------------------------");
-            Console.WriteLine("1 - Exercicio sobre Veiculo;\r\n2 - Exercicio sobre Imposto;\r\n3 - Exercicio sobre Personagem\r\n4 - Exercicio sobre Funcionarios\r\n5 - App Jokenpo");
+            Console.WriteLine("1 - Exercicio sobre Veiculo;\n2 - Exercicio sobre Imposto;\n3 - Exercicio sobre Personagem\n4 - Exercicio sobre Funcionarios\n5 - App Jokenpo\n6 - App Caixa Eletrônico");
             var opcao = Console.ReadLine();
             Console.WriteLine("------------------------------------");
             switch (opcao)
@@ -35,6 +36,9 @@ namespace Main
                     break;
                 case "5":
                     ProgramJokenpo.Main();
+                    break;
+                case "6":
+                    ProgramCaixaEletronico.Main();
                     break;
                 default:
                     break;

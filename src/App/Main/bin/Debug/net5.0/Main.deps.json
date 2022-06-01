@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v5.0": {
       "Main/1.0.0": {
         "dependencies": {
+          "CaixaEletronico": "1.0.0",
           "Ex1Veiculo": "1.0.0",
           "Ex2Imposto": "1.0.0",
           "Ex3Personagem": "1.0.0",
@@ -16,6 +17,11 @@
         },
         "runtime": {
           "Main.dll": {}
+        }
+      },
+      "CaixaEletronico/1.0.0": {
+        "runtime": {
+          "CaixaEletronico.dll": {}
         }
       },
       "Ex1Veiculo/1.0.0": {
@@ -47,6 +53,11 @@
   },
   "libraries": {
     "Main/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CaixaEletronico/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

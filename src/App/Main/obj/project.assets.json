@@ -2,6 +2,16 @@
   "version": 3,
   "targets": {
     "net5.0": {
+      "CaixaEletronico/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/CaixaEletronico.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CaixaEletronico.dll": {}
+        }
+      },
       "Ex1Veiculo/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
@@ -55,6 +65,11 @@
     }
   },
   "libraries": {
+    "CaixaEletronico/1.0.0": {
+      "type": "project",
+      "path": "../CaixaEletronico/CaixaEletronico.csproj",
+      "msbuildProject": "../CaixaEletronico/CaixaEletronico.csproj"
+    },
     "Ex1Veiculo/1.0.0": {
       "type": "project",
       "path": "../Ex1Veiculo/Ex1Veiculo.csproj",
@@ -83,6 +98,7 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "CaixaEletronico >= 1.0.0",
       "Ex1Veiculo >= 1.0.0",
       "Ex2Imposto >= 1.0.0",
       "Ex3Personagem >= 1.0.0",
@@ -115,6 +131,9 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
+            "C:\\Users\\AOZI\\OneDrive - GFT Technologies SE\\Documents\\ProjetosAtividadesGFT\\desafiotdd\\src\\App\\CaixaEletronico\\CaixaEletronico.csproj": {
+              "projectPath": "C:\\Users\\AOZI\\OneDrive - GFT Technologies SE\\Documents\\ProjetosAtividadesGFT\\desafiotdd\\src\\App\\CaixaEletronico\\CaixaEletronico.csproj"
+            },
             "C:\\Users\\AOZI\\OneDrive - GFT Technologies SE\\Documents\\ProjetosAtividadesGFT\\desafiotdd\\src\\App\\Ex1Veiculo\\Ex1Veiculo.csproj": {
               "projectPath": "C:\\Users\\AOZI\\OneDrive - GFT Technologies SE\\Documents\\ProjetosAtividadesGFT\\desafiotdd\\src\\App\\Ex1Veiculo\\Ex1Veiculo.csproj"
             },

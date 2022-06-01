@@ -6,6 +6,7 @@
     <ProjectReference Include="..\Ex3Personagem\Ex3Personagem.csproj" />
     <ProjectReference Include="..\Ex7Funcionarios\Ex7Funcionarios.csproj" />
     <ProjectReference Include="..\Jokenpo\Jokenpo.csproj" />
+    <ProjectReference Include="..\CaixaEletronico\CaixaEletronico.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
