@@ -10,7 +10,9 @@
         "dependencies": {
           "Ex1Veiculo": "1.0.0",
           "Ex2Imposto": "1.0.0",
-          "Ex3Personagem": "1.0.0"
+          "Ex3Personagem": "1.0.0",
+          "Ex7Funcionarios": "1.0.0",
+          "Jokenpo": "1.0.0"
         },
         "runtime": {
           "Main.dll": {}
@@ -29,6 +31,16 @@
       "Ex3Personagem/1.0.0": {
         "runtime": {
           "Ex3Personagem.dll": {}
+        }
+      },
+      "Ex7Funcionarios/1.0.0": {
+        "runtime": {
+          "Ex7Funcionarios.dll": {}
+        }
+      },
+      "Jokenpo/1.0.0": {
+        "runtime": {
+          "Jokenpo.dll": {}
         }
       }
     }
@@ -50,6 +62,16 @@
       "sha512": ""
     },
     "Ex3Personagem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ex7Funcionarios/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Jokenpo/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

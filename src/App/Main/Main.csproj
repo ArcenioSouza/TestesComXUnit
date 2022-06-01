@@ -4,6 +4,8 @@
     <ProjectReference Include="..\Ex1Veiculo\Ex1Veiculo.csproj" />
     <ProjectReference Include="..\Ex2Imposto\Ex2Imposto.csproj" />
     <ProjectReference Include="..\Ex3Personagem\Ex3Personagem.csproj" />
+    <ProjectReference Include="..\Ex7Funcionarios\Ex7Funcionarios.csproj" />
+    <ProjectReference Include="..\Jokenpo\Jokenpo.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

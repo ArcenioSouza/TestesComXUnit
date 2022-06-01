@@ -100,3 +100,4 @@ C:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\des
 C:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\desafiotdd\src\Tests\Ex1Test\obj\Debug\net5.0\Ex1Test.genruntimeconfig.cache
 c:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\desafiotdd\src\Tests\Ex1Test\obj\Debug\net5.0\Ex1Test.AssemblyInfoInputs.cache
 c:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\desafiotdd\src\Tests\Ex1Test\obj\Debug\net5.0\Ex1Test.AssemblyInfo.cs
+c:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\desafiotdd\src\Tests\Ex1Test\obj\Debug\net5.0\Ex1Test.dll

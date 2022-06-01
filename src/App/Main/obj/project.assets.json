@@ -31,6 +31,26 @@
         "runtime": {
           "bin/placeholder/Ex3Personagem.dll": {}
         }
+      },
+      "Ex7Funcionarios/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Ex7Funcionarios.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ex7Funcionarios.dll": {}
+        }
+      },
+      "Jokenpo/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Jokenpo.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Jokenpo.dll": {}
+        }
       }
     }
   },
@@ -49,13 +69,25 @@
       "type": "project",
       "path": "../Ex3Personagem/Ex3Personagem.csproj",
       "msbuildProject": "../Ex3Personagem/Ex3Personagem.csproj"
+    },
+    "Ex7Funcionarios/1.0.0": {
+      "type": "project",
+      "path": "../Ex7Funcionarios/Ex7Funcionarios.csproj",
+      "msbuildProject": "../Ex7Funcionarios/Ex7Funcionarios.csproj"
+    },
+    "Jokenpo/1.0.0": {
+      "type": "project",
+      "path": "../Jokenpo/Jokenpo.csproj",
+      "msbuildProject": "../Jokenpo/Jokenpo.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
       "Ex1Veiculo >= 1.0.0",
       "Ex2Imposto >= 1.0.0",
-      "Ex3Personagem >= 1.0.0"
+      "Ex3Personagem >= 1.0.0",
+      "Ex7Funcionarios >= 1.0.0",
+      "Jokenpo >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -91,6 +123,12 @@
             },
             "C:\\Users\\AOZI\\OneDrive - GFT Technologies SE\\Documents\\ProjetosAtividadesGFT\\desafiotdd\\src\\App\\Ex3Personagem\\Ex3Personagem.csproj": {
               "projectPath": "C:\\Users\\AOZI\\OneDrive - GFT Technologies SE\\Documents\\ProjetosAtividadesGFT\\desafiotdd\\src\\App\\Ex3Personagem\\Ex3Personagem.csproj"
+            },
+            "C:\\Users\\AOZI\\OneDrive - GFT Technologies SE\\Documents\\ProjetosAtividadesGFT\\desafiotdd\\src\\App\\Ex7Funcionarios\\Ex7Funcionarios.csproj": {
+              "projectPath": "C:\\Users\\AOZI\\OneDrive - GFT Technologies SE\\Documents\\ProjetosAtividadesGFT\\desafiotdd\\src\\App\\Ex7Funcionarios\\Ex7Funcionarios.csproj"
+            },
+            "C:\\Users\\AOZI\\OneDrive - GFT Technologies SE\\Documents\\ProjetosAtividadesGFT\\desafiotdd\\src\\App\\Jokenpo\\Jokenpo.csproj": {
+              "projectPath": "C:\\Users\\AOZI\\OneDrive - GFT Technologies SE\\Documents\\ProjetosAtividadesGFT\\desafiotdd\\src\\App\\Jokenpo\\Jokenpo.csproj"
             }
           }
         }

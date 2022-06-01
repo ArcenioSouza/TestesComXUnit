@@ -21,3 +21,7 @@ C:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\des
 C:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\desafiotdd\src\App\Main\bin\Debug\net5.0\Ex2Imposto.pdb
 C:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\desafiotdd\src\App\Main\bin\Debug\net5.0\Ex3Personagem.dll
 C:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\desafiotdd\src\App\Main\bin\Debug\net5.0\Ex3Personagem.pdb
+C:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\desafiotdd\src\App\Main\bin\Debug\net5.0\Ex7Funcionarios.dll
+C:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\desafiotdd\src\App\Main\bin\Debug\net5.0\Ex7Funcionarios.pdb
+C:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\desafiotdd\src\App\Main\bin\Debug\net5.0\Jokenpo.dll
+C:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\desafiotdd\src\App\Main\bin\Debug\net5.0\Jokenpo.pdb
