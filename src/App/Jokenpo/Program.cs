@@ -9,9 +9,6 @@ namespace Jokenpo
         {
             Random random = new Random();
             int robo = random.Next(3) + 1;
-
-            Console.Title = ("Jokenpô");
-            Console.ForegroundColor = ConsoleColor.Cyan;
             
             Partida partida = new Partida();
             partida.Menu();
