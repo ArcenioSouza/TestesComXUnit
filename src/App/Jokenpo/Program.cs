@@ -1,5 +1,5 @@
 ﻿using System;
-using src.App.Jokenpo.Model;
+using Jokenpo.Model;
 
 namespace Jokenpo
 {

@@ -1,5 +1,5 @@
 using System;
-namespace src.App.Jokenpo.Model
+namespace Jokenpo.Model
 {
     public class Partida
     {
