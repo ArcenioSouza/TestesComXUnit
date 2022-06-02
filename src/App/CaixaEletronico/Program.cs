@@ -1,4 +1,5 @@
-﻿using System;
+﻿using System.Threading;
+using System;
 using CaixaEletronico.Model;
 
 namespace CaixaEletronico
@@ -7,12 +8,38 @@ namespace CaixaEletronico
     {
         public static void Main()
         {
-            Console.WriteLine($"------------------------------");
-            Console.WriteLine($"\nBem vindo ao Caixa Eletrônico");
-            Console.WriteLine($"Digite um valor para sacar:");
-            int valorSaque = Int32.Parse(Console.ReadLine());
+            bool SaqueLiberado = false;
+            int ValorSaque = 0;
+
+            while (SaqueLiberado == false)
+            {
+                Console.WriteLine($"-----------------------------------");
+                Console.WriteLine($"Bem vindo ao App Caixa Eletrônico");
+                Console.WriteLine($"Digite um valor para sacar:");
+
+                string saque = Console.ReadLine();
+                ValorSaque = saque == "" ? 0 : Int32.Parse(saque);
+
+                if (ValorSaque % 2 == 1)
+                {
+                    Console.WriteLine($"----------------------------------------------------------");
+                    Console.WriteLine($"Só temos notas de 100, 50, 20 e 10 disponíveis\nImpossível realizar o saque nesse valor");
+                    Console.WriteLine($"----------------------------------------------------------");
+                    Console.WriteLine($"Tente novamente");
+                    Thread.Sleep(2000);
+                }
+                else
+                {
+                    Console.WriteLine($"------------------------------------------------------");
+                    Console.WriteLine($"Fazendo a contagem das notas... Por favor aguarde...");
+                    Console.WriteLine($"------------------------------------------------------");
+                    Thread.Sleep(2000);
+                    SaqueLiberado = true;
+                }
+            }
+
             Caixa caixa = new Caixa();
-            caixa.Saque(valorSaque);        
+            caixa.Saque(ValorSaque);
         }
     }
 }
