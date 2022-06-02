@@ -19,7 +19,7 @@ namespace Jokenpo
             }
             else
             {
-                Environment.Exit(0);
+                Console.WriteLine($"---------------------------");
             }
 
             try

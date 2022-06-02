@@ -1,3 +1,4 @@
+using System.Threading;
 using System;
 namespace Jokenpo.Model
 {
@@ -72,18 +73,21 @@ namespace Jokenpo.Model
                 {
                     Console.WriteLine("");
                     Console.WriteLine("Resultado do jogo: Empate!");
+                    Thread.Sleep(2000);
                     return 0;
                 }
                 else if(resultado == 1 || resultado == -2)
                 {
                     Console.WriteLine("");
                     Console.WriteLine("Resultado do jogo: Parabéns, você venceu!");
+                    Thread.Sleep(2000);
                     return 1;
                 }
                 else
                 {
                     Console.WriteLine("");
                     Console.WriteLine("Resultado do jogo: Você perdeu. Continue tentando");
+                    Thread.Sleep(2000);
                     return -1;
                 }
             }
