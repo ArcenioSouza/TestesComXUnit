@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gqSe3KlWgV+nAYt2InCcMBeMLE/hgxOC7k3ywBmtY7cs1B236cfz7spoKfwkQP8tIdV2zJ1omEnGlei7u9Gi4w==",
+  "dgSpecHash": "L3/hHLqn5WND8V64tVJHEIuC0f3c4qk/nKu6A/j/J4eidTrttxjIJoCWMOqozB09aq+j7gKqUSzRmv/C+XPA4A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\AOZI\\OneDrive - GFT Technologies SE\\Documents\\ProjetosAtividadesGFT\\desafiotdd\\src\\Tests\\Ex3Test\\Ex3Test.csproj",
+  "projectFilePath": "c:\\Users\\AOZI\\My Private Documents\\AtividadesGFT\\desafiotdd\\src\\Tests\\Ex3Test\\Ex3Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AOZI\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\AOZI\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

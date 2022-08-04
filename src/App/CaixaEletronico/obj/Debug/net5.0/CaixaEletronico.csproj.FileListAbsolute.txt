@@ -8,3 +8,13 @@ C:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\des
 C:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\desafiotdd\src\App\CaixaEletronico\obj\Debug\net5.0\CaixaEletronico.dll
 C:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\desafiotdd\src\App\CaixaEletronico\obj\Debug\net5.0\ref\CaixaEletronico.dll
 C:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\desafiotdd\src\App\CaixaEletronico\obj\Debug\net5.0\CaixaEletronico.pdb
+c:\Users\AOZI\My Private Documents\AtividadesGFT\desafiotdd\src\App\CaixaEletronico\bin\Debug\net5.0\CaixaEletronico.deps.json
+c:\Users\AOZI\My Private Documents\AtividadesGFT\desafiotdd\src\App\CaixaEletronico\bin\Debug\net5.0\CaixaEletronico.dll
+c:\Users\AOZI\My Private Documents\AtividadesGFT\desafiotdd\src\App\CaixaEletronico\bin\Debug\net5.0\ref\CaixaEletronico.dll
+c:\Users\AOZI\My Private Documents\AtividadesGFT\desafiotdd\src\App\CaixaEletronico\bin\Debug\net5.0\CaixaEletronico.pdb
+c:\Users\AOZI\My Private Documents\AtividadesGFT\desafiotdd\src\App\CaixaEletronico\obj\Debug\net5.0\CaixaEletronico.csproj.AssemblyReference.cache
+c:\Users\AOZI\My Private Documents\AtividadesGFT\desafiotdd\src\App\CaixaEletronico\obj\Debug\net5.0\CaixaEletronico.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\AOZI\My Private Documents\AtividadesGFT\desafiotdd\src\App\CaixaEletronico\obj\Debug\net5.0\CaixaEletronico.csproj.CoreCompileInputs.cache
+c:\Users\AOZI\My Private Documents\AtividadesGFT\desafiotdd\src\App\CaixaEletronico\obj\Debug\net5.0\CaixaEletronico.dll
+c:\Users\AOZI\My Private Documents\AtividadesGFT\desafiotdd\src\App\CaixaEletronico\obj\Debug\net5.0\ref\CaixaEletronico.dll
+c:\Users\AOZI\My Private Documents\AtividadesGFT\desafiotdd\src\App\CaixaEletronico\obj\Debug\net5.0\CaixaEletronico.pdb

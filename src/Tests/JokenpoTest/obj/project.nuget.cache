@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DiMy/Shj+6xfX8J7rvcWmXotyTmkKjP9UzgBpmpV4oJWiOSxzPk0Gg7Fxg4eAbn5aooGJo7q4oAYQAlOXOki1w==",
+  "dgSpecHash": "guYj/TBqtqQQgBUIWm7nMXYSW+97TIitQrALf9fAj8I6Llf62LYusHO3+FGsh3tT9F0ZnS2J1Noor6TKC5ZekQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\AOZI\\OneDrive - GFT Technologies SE\\Documents\\ProjetosAtividadesGFT\\desafiotdd\\src\\Tests\\JokenpoTest\\JokenpoTest.csproj",
+  "projectFilePath": "c:\\Users\\AOZI\\My Private Documents\\AtividadesGFT\\desafiotdd\\src\\Tests\\JokenpoTest\\JokenpoTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AOZI\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\AOZI\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

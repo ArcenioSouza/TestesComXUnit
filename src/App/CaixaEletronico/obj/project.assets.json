@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AOZI\\OneDrive - GFT Technologies SE\\Documents\\ProjetosAtividadesGFT\\desafiotdd\\src\\App\\CaixaEletronico\\CaixaEletronico.csproj",
+      "projectUniqueName": "c:\\Users\\AOZI\\My Private Documents\\AtividadesGFT\\desafiotdd\\src\\App\\CaixaEletronico\\CaixaEletronico.csproj",
       "projectName": "CaixaEletronico",
-      "projectPath": "C:\\Users\\AOZI\\OneDrive - GFT Technologies SE\\Documents\\ProjetosAtividadesGFT\\desafiotdd\\src\\App\\CaixaEletronico\\CaixaEletronico.csproj",
+      "projectPath": "c:\\Users\\AOZI\\My Private Documents\\AtividadesGFT\\desafiotdd\\src\\App\\CaixaEletronico\\CaixaEletronico.csproj",
       "packagesPath": "C:\\Users\\AOZI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AOZI\\OneDrive - GFT Technologies SE\\Documents\\ProjetosAtividadesGFT\\desafiotdd\\src\\App\\CaixaEletronico\\obj\\",
+      "outputPath": "c:\\Users\\AOZI\\My Private Documents\\AtividadesGFT\\desafiotdd\\src\\App\\CaixaEletronico\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\AOZI\\AppData\\Roaming\\NuGet\\NuGet.Config"

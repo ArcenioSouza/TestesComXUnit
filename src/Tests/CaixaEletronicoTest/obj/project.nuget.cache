@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EVhHobcvfaaRAVy9mPEMZ+wZTMECgY9Be9KwX91n9TW+5dWJ+51BIaXyb+qvlZ/uqmBw85vWGqhhq7mvHhpEKQ==",
+  "dgSpecHash": "0APMqZEUSNxbD3n9BnX5ee+V8KzsawRO72GtJ//ODaMQH2Ma/41biM78AjZckrHBhx3MLXulBbVsa1ZLOsXEZg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\AOZI\\OneDrive - GFT Technologies SE\\Documents\\ProjetosAtividadesGFT\\desafiotdd\\src\\Tests\\CaixaEletronicoTest\\CaixaEletronicoTest.csproj",
+  "projectFilePath": "c:\\Users\\AOZI\\My Private Documents\\AtividadesGFT\\desafiotdd\\src\\Tests\\CaixaEletronicoTest\\CaixaEletronicoTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AOZI\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\AOZI\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

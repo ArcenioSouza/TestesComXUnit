@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\AOZI\\OneDrive - GFT Technologies SE\\Documents\\ProjetosAtividadesGFT\\desafiotdd\\src\\App\\Ex2Imposto\\Ex2Imposto.csproj",
+      "projectUniqueName": "c:\\Users\\AOZI\\My Private Documents\\AtividadesGFT\\desafiotdd\\src\\App\\Ex2Imposto\\Ex2Imposto.csproj",
       "projectName": "Ex2Imposto",
-      "projectPath": "c:\\Users\\AOZI\\OneDrive - GFT Technologies SE\\Documents\\ProjetosAtividadesGFT\\desafiotdd\\src\\App\\Ex2Imposto\\Ex2Imposto.csproj",
+      "projectPath": "c:\\Users\\AOZI\\My Private Documents\\AtividadesGFT\\desafiotdd\\src\\App\\Ex2Imposto\\Ex2Imposto.csproj",
       "packagesPath": "C:\\Users\\AOZI\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\AOZI\\OneDrive - GFT Technologies SE\\Documents\\ProjetosAtividadesGFT\\desafiotdd\\src\\App\\Ex2Imposto\\obj\\",
+      "outputPath": "c:\\Users\\AOZI\\My Private Documents\\AtividadesGFT\\desafiotdd\\src\\App\\Ex2Imposto\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\AOZI\\AppData\\Roaming\\NuGet\\NuGet.Config"

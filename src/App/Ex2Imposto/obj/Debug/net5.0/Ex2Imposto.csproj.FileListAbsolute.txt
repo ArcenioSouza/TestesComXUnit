@@ -8,3 +8,13 @@ c:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\des
 c:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\desafiotdd\src\App\Ex2Imposto\bin\Debug\net5.0\Ex2Imposto.dll
 c:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\desafiotdd\src\App\Ex2Imposto\bin\Debug\net5.0\ref\Ex2Imposto.dll
 c:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\desafiotdd\src\App\Ex2Imposto\bin\Debug\net5.0\Ex2Imposto.pdb
+c:\Users\AOZI\My Private Documents\AtividadesGFT\desafiotdd\src\App\Ex2Imposto\bin\Debug\net5.0\Ex2Imposto.deps.json
+c:\Users\AOZI\My Private Documents\AtividadesGFT\desafiotdd\src\App\Ex2Imposto\bin\Debug\net5.0\Ex2Imposto.dll
+c:\Users\AOZI\My Private Documents\AtividadesGFT\desafiotdd\src\App\Ex2Imposto\bin\Debug\net5.0\ref\Ex2Imposto.dll
+c:\Users\AOZI\My Private Documents\AtividadesGFT\desafiotdd\src\App\Ex2Imposto\bin\Debug\net5.0\Ex2Imposto.pdb
+c:\Users\AOZI\My Private Documents\AtividadesGFT\desafiotdd\src\App\Ex2Imposto\obj\Debug\net5.0\Ex2Imposto.csproj.AssemblyReference.cache
+c:\Users\AOZI\My Private Documents\AtividadesGFT\desafiotdd\src\App\Ex2Imposto\obj\Debug\net5.0\Ex2Imposto.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\AOZI\My Private Documents\AtividadesGFT\desafiotdd\src\App\Ex2Imposto\obj\Debug\net5.0\Ex2Imposto.csproj.CoreCompileInputs.cache
+c:\Users\AOZI\My Private Documents\AtividadesGFT\desafiotdd\src\App\Ex2Imposto\obj\Debug\net5.0\Ex2Imposto.dll
+c:\Users\AOZI\My Private Documents\AtividadesGFT\desafiotdd\src\App\Ex2Imposto\obj\Debug\net5.0\ref\Ex2Imposto.dll
+c:\Users\AOZI\My Private Documents\AtividadesGFT\desafiotdd\src\App\Ex2Imposto\obj\Debug\net5.0\Ex2Imposto.pdb

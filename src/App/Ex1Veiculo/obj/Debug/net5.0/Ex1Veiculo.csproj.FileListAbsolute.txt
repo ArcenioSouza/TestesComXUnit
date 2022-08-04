@@ -8,3 +8,13 @@ c:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\des
 c:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\desafiotdd\src\App\Ex1Veiculo\bin\Debug\net5.0\Ex1Veiculo.dll
 C:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\desafiotdd\src\App\Ex1Veiculo\bin\Debug\net5.0\ref\Ex1Veiculo.dll
 C:\Users\AOZI\OneDrive - GFT Technologies SE\Documents\ProjetosAtividadesGFT\desafiotdd\src\App\Ex1Veiculo\bin\Debug\net5.0\Ex1Veiculo.pdb
+c:\Users\AOZI\My Private Documents\AtividadesGFT\desafiotdd\src\App\Ex1Veiculo\bin\Debug\net5.0\Ex1Veiculo.deps.json
+c:\Users\AOZI\My Private Documents\AtividadesGFT\desafiotdd\src\App\Ex1Veiculo\bin\Debug\net5.0\Ex1Veiculo.dll
+c:\Users\AOZI\My Private Documents\AtividadesGFT\desafiotdd\src\App\Ex1Veiculo\bin\Debug\net5.0\ref\Ex1Veiculo.dll
+c:\Users\AOZI\My Private Documents\AtividadesGFT\desafiotdd\src\App\Ex1Veiculo\bin\Debug\net5.0\Ex1Veiculo.pdb
+c:\Users\AOZI\My Private Documents\AtividadesGFT\desafiotdd\src\App\Ex1Veiculo\obj\Debug\net5.0\Ex1Veiculo.csproj.AssemblyReference.cache
+c:\Users\AOZI\My Private Documents\AtividadesGFT\desafiotdd\src\App\Ex1Veiculo\obj\Debug\net5.0\Ex1Veiculo.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\AOZI\My Private Documents\AtividadesGFT\desafiotdd\src\App\Ex1Veiculo\obj\Debug\net5.0\Ex1Veiculo.csproj.CoreCompileInputs.cache
+c:\Users\AOZI\My Private Documents\AtividadesGFT\desafiotdd\src\App\Ex1Veiculo\obj\Debug\net5.0\Ex1Veiculo.dll
+c:\Users\AOZI\My Private Documents\AtividadesGFT\desafiotdd\src\App\Ex1Veiculo\obj\Debug\net5.0\ref\Ex1Veiculo.dll
+c:\Users\AOZI\My Private Documents\AtividadesGFT\desafiotdd\src\App\Ex1Veiculo\obj\Debug\net5.0\Ex1Veiculo.pdb

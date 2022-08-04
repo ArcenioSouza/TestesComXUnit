@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AOZI\\OneDrive - GFT Technologies SE\\Documents\\ProjetosAtividadesGFT\\desafiotdd\\src\\Tests\\Ex3Test\\Ex3Test.csproj": {}
+    "c:\\Users\\AOZI\\My Private Documents\\AtividadesGFT\\desafiotdd\\src\\Tests\\Ex3Test\\Ex3Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AOZI\\OneDrive - GFT Technologies SE\\Documents\\ProjetosAtividadesGFT\\desafiotdd\\src\\App\\Ex3Personagem\\Ex3Personagem.csproj": {
+    "c:\\Users\\AOZI\\My Private Documents\\AtividadesGFT\\desafiotdd\\src\\App\\Ex3Personagem\\Ex3Personagem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AOZI\\OneDrive - GFT Technologies SE\\Documents\\ProjetosAtividadesGFT\\desafiotdd\\src\\App\\Ex3Personagem\\Ex3Personagem.csproj",
+        "projectUniqueName": "c:\\Users\\AOZI\\My Private Documents\\AtividadesGFT\\desafiotdd\\src\\App\\Ex3Personagem\\Ex3Personagem.csproj",
         "projectName": "Ex3Personagem",
-        "projectPath": "C:\\Users\\AOZI\\OneDrive - GFT Technologies SE\\Documents\\ProjetosAtividadesGFT\\desafiotdd\\src\\App\\Ex3Personagem\\Ex3Personagem.csproj",
+        "projectPath": "c:\\Users\\AOZI\\My Private Documents\\AtividadesGFT\\desafiotdd\\src\\App\\Ex3Personagem\\Ex3Personagem.csproj",
         "packagesPath": "C:\\Users\\AOZI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AOZI\\OneDrive - GFT Technologies SE\\Documents\\ProjetosAtividadesGFT\\desafiotdd\\src\\App\\Ex3Personagem\\obj\\",
+        "outputPath": "c:\\Users\\AOZI\\My Private Documents\\AtividadesGFT\\desafiotdd\\src\\App\\Ex3Personagem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AOZI\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -56,14 +56,14 @@
         }
       }
     },
-    "C:\\Users\\AOZI\\OneDrive - GFT Technologies SE\\Documents\\ProjetosAtividadesGFT\\desafiotdd\\src\\Tests\\Ex3Test\\Ex3Test.csproj": {
+    "c:\\Users\\AOZI\\My Private Documents\\AtividadesGFT\\desafiotdd\\src\\Tests\\Ex3Test\\Ex3Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AOZI\\OneDrive - GFT Technologies SE\\Documents\\ProjetosAtividadesGFT\\desafiotdd\\src\\Tests\\Ex3Test\\Ex3Test.csproj",
+        "projectUniqueName": "c:\\Users\\AOZI\\My Private Documents\\AtividadesGFT\\desafiotdd\\src\\Tests\\Ex3Test\\Ex3Test.csproj",
         "projectName": "Ex3Test",
-        "projectPath": "C:\\Users\\AOZI\\OneDrive - GFT Technologies SE\\Documents\\ProjetosAtividadesGFT\\desafiotdd\\src\\Tests\\Ex3Test\\Ex3Test.csproj",
+        "projectPath": "c:\\Users\\AOZI\\My Private Documents\\AtividadesGFT\\desafiotdd\\src\\Tests\\Ex3Test\\Ex3Test.csproj",
         "packagesPath": "C:\\Users\\AOZI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AOZI\\OneDrive - GFT Technologies SE\\Documents\\ProjetosAtividadesGFT\\desafiotdd\\src\\Tests\\Ex3Test\\obj\\",
+        "outputPath": "c:\\Users\\AOZI\\My Private Documents\\AtividadesGFT\\desafiotdd\\src\\Tests\\Ex3Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AOZI\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -78,8 +78,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\AOZI\\OneDrive - GFT Technologies SE\\Documents\\ProjetosAtividadesGFT\\desafiotdd\\src\\App\\Ex3Personagem\\Ex3Personagem.csproj": {
-                "projectPath": "C:\\Users\\AOZI\\OneDrive - GFT Technologies SE\\Documents\\ProjetosAtividadesGFT\\desafiotdd\\src\\App\\Ex3Personagem\\Ex3Personagem.csproj"
+              "c:\\Users\\AOZI\\My Private Documents\\AtividadesGFT\\desafiotdd\\src\\App\\Ex3Personagem\\Ex3Personagem.csproj": {
+                "projectPath": "c:\\Users\\AOZI\\My Private Documents\\AtividadesGFT\\desafiotdd\\src\\App\\Ex3Personagem\\Ex3Personagem.csproj"
               }
             }
           }
