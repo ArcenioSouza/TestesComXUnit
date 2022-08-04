@@ -5,7 +5,7 @@ Projeto para analise e avaliação do aprendizado sobre TDD que contempla a real
 # ⚙ Como utilizar
 
 **1 - Abra seu terminal e clone o repositório usando esse comando:**
- - git clone https://git.gft.com/aozi/desafiotdd.git
+ - git clone https://github.com/ArcenioSouza/TestesComXUnit.git
 
 **2 - Entre na pasta do projeto clonado:**
  - cd desafiotdd
